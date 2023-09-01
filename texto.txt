@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Meu nome é PH
-=======
-Meu nome é PH
-nome do meu cachorro
-Meu time é o CURINTIA!!!
-dsajdisajdisa
->>>>>>> 20adfc6e9b3530e3fe991ae493ca502cf13e52db
+meu nome é PH
+meu time é o curintia
